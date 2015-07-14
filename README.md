@@ -40,7 +40,7 @@ Write all of your SQL statements in todo_app.sql
   `title = 'mistake 2'`  
   `description = 'another test entry'`  
   1. create a new task  
-  `title = 'mistake 3'`  
+  `title = 'third mistake'`  
   `description = 'another test entry'`  
   1. select title fields of all tasks with a title that includes the word `'mistake'`
   1. delete the task that has a title of `mistake 1`
