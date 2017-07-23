@@ -8,9 +8,9 @@ Prepare SQL statements while testing them on a local running database.
 
 Write all of your SQL statements in todo_app.sql
 
+1. Write a query to drop a database named `todo_app` if it exists
 1. Write a query to delete a user named `michael` if it exists
 1. Write a query to create a user named `michael` with an encrypted password `stonebreaker`
-1. Write a query to drop a database named `todo_app` if it exists
 1. Write a query to create a database named `todo_app`
 1. Connect to the newly created database
 1. Write a query to create a table named `tasks` using the **Initial columns** detailed below
